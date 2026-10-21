@@ -7,7 +7,7 @@ title: Your Name
 
 学校或单位 / 院系或实验室
 
-[GitHub](https://github.com/zhengty20) · [Email](mailto:你的邮箱)
+[Email](mailto:EthanZheng01@outlook.com)
 
 ## About Me
 
