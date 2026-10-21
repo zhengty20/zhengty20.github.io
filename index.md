@@ -1,36 +1,26 @@
 ---
 layout: default
-title: Your Name
 ---
 
-# Your Name · 你的中文名
-
-学校或单位 / 院系或实验室
+Tianyi Zheng
+University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
 
 [Email](mailto:EthanZheng01@outlook.com)
 
-## About Me
-
-I am a Ph.D. student at University of Macau.
-My research interests are efficient chip for machine-learning, hardware-software co-optimization, and compute-in-memory.
-
 ## Research Interests
+- Efficient Chip for Machine-Learning
+- Hardware-Software Co-optimization
+- Compute-in-Memory
 
-- 研究方向一
-- 研究方向二
-- 研究方向三
+## Education
+- Ph.D. Student, University of Macau, Department of Microelectronics, 2024.8-now
+- Bachlor, Tsinghua University, Department of Electronic Engineering, 2020.8-2024.6
 
 ## Publications
-
 1. **论文标题**  
    作者列表  
    *期刊或会议名称*, 年份.  
    [Paper](论文链接) · [Code](代码链接)
 
-## Education
-
-- 学校名称，学位或专业，起止年份
-
 ## News
-
 - 2026.10: My personal website is online!
